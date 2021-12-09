@@ -1,0 +1,1 @@
+var button1 = Android.getHtmlStringButton1SAMPDialog();

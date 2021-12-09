@@ -1,0 +1,1 @@
+1) int byteButtonID - отправить - 1 / отменить - 0<br/>2) int wListBoxItem - ID выбранного list item (значение по умолчанию: -1)<br/>3) String szInput - значение строки ввода

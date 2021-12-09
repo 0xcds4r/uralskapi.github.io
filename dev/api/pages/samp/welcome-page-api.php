@@ -1,0 +1,1 @@
+<h3>Welcome to main page of SA-MP API</h3>

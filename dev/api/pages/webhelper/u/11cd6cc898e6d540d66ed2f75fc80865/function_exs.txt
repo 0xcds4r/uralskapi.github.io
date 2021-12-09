@@ -1,0 +1,1 @@
+Android.setGameControllable(true); // Включить управление в игре.

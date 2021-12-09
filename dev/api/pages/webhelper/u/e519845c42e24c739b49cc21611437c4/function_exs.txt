@@ -1,0 +1,1 @@
+Android.storage_set_value("weather", "rainy"); // Установим значение 'rainy' для ключа в 'weather' в хранилище.<br/>var weather = Android.storage_get_value('weather'); // Используя ключ, получим значение в переменную из хранилища.<br/>console.log(weather); // Выводим сообщение в консоль.<br/><br/>// Результат: rainy

@@ -1,0 +1,1 @@
+var size_x = Android.getScreenWidth(); // Получаем ширину экрана устройства в переменную.

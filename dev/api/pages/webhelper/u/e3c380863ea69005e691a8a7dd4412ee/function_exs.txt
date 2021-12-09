@@ -1,0 +1,1 @@
+Android.storage_set_value("weather", "rainy"); // Установим значение 'rainy' для ключа в 'weather' в хранилище.<br/>Android.sendDataToServerFromKey("weather"); // Отправим значение из ключа 'weather' на сервер.

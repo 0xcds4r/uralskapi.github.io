@@ -1,0 +1,1 @@
+var size_y = Android.getScreenHeight(); // Получаем высоту экрана устройства в переменную.

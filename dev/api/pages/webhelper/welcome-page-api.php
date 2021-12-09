@@ -1,0 +1,1 @@
+<h3>Welcome to main page of Web Helper API</h3>
